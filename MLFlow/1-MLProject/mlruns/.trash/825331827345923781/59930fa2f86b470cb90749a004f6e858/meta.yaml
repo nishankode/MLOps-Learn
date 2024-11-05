@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/825331827345923781/59930fa2f86b470cb90749a004f6e858/artifacts
+deleted_time: 1730823653337
+end_time: 1730823615538
+entry_point_name: ''
+experiment_id: '825331827345923781'
+lifecycle_stage: deleted
+run_id: 59930fa2f86b470cb90749a004f6e858
+run_name: sincere-stoat-466
+run_uuid: 59930fa2f86b470cb90749a004f6e858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730823615427
+status: 4
+tags: []
+user_id: mnsnn

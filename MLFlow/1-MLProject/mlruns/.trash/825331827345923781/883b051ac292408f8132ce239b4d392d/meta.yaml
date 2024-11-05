@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/825331827345923781/883b051ac292408f8132ce239b4d392d/artifacts
+deleted_time: 1730823653337
+end_time: 1730823644038
+entry_point_name: ''
+experiment_id: '825331827345923781'
+lifecycle_stage: deleted
+run_id: 883b051ac292408f8132ce239b4d392d
+run_name: orderly-donkey-381
+run_uuid: 883b051ac292408f8132ce239b4d392d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730823637211
+status: 3
+tags: []
+user_id: mnsnn

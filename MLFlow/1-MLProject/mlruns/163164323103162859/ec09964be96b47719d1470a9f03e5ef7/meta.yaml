@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163164323103162859/ec09964be96b47719d1470a9f03e5ef7/artifacts
+end_time: 1730823752714
+entry_point_name: ''
+experiment_id: '163164323103162859'
+lifecycle_stage: active
+run_id: ec09964be96b47719d1470a9f03e5ef7
+run_name: useful-snipe-752
+run_uuid: ec09964be96b47719d1470a9f03e5ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730823748714
+status: 3
+tags: []
+user_id: mnsnn

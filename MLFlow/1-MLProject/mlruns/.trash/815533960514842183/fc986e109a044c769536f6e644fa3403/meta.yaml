@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/815533960514842183/fc986e109a044c769536f6e644fa3403/artifacts
+deleted_time: 1730828022651
+end_time: 1730823678776
+entry_point_name: ''
+experiment_id: '815533960514842183'
+lifecycle_stage: deleted
+run_id: fc986e109a044c769536f6e644fa3403
+run_name: industrious-foal-255
+run_uuid: fc986e109a044c769536f6e644fa3403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730823674667
+status: 3
+tags: []
+user_id: mnsnn
