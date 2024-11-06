@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/163164323103162859/c8dbb44aeb614c54ab026d6dd8f31fe0/artifacts
+deleted_time: 1730861524249
+end_time: 1730861487479
+entry_point_name: ''
+experiment_id: '163164323103162859'
+lifecycle_stage: deleted
+run_id: c8dbb44aeb614c54ab026d6dd8f31fe0
+run_name: wistful-ray-750
+run_uuid: c8dbb44aeb614c54ab026d6dd8f31fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730861480489
+status: 3
+tags: []
+user_id: mnsnn
