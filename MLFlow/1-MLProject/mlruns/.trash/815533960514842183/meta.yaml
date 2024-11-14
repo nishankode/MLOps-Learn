@@ -1,7 +1,0 @@
-artifact_location: mlflow-artifacts:/815533960514842183
-creation_time: 1730823674637
-experiment_id: '815533960514842183'
-last_update_time: 1730828022651
-lifecycle_stage: deleted
-name: IRIS Prediction 1
-tags: {}
